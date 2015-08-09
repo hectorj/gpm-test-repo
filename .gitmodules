@@ -1,0 +1,3 @@
+[submodule "submodule-to-remove"]
+	path = submodule-to-remove
+	url = https://github.com/hectorj/gpm-test-repo.git
