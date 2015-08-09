@@ -1,3 +1,9 @@
 [submodule "submodule-to-remove"]
 	path = submodule-to-remove
 	url = https://github.com/hectorj/gpm-test-repo.git
+[submodule "vendor/github.com/hectorj/gpm"]
+	path = vendor/github.com/hectorj/gpm
+	url = git@github.com:hectorj/gpm.git
+[submodule "vendor/github.com/hectorj/gpm-test-repo"]
+	path = vendor/github.com/hectorj/gpm-test-repo
+	url = https://github.com/hectorj/gpm-test-repo.git
